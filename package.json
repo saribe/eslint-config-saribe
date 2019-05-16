@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-saribe",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Lazy way to setup you eslint config",
   "main": "index.js",
   "scripts": {
