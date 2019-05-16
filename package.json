@@ -1,5 +1,5 @@
 {
-  "name": "saribe-eslint-config",
+  "name": "eslint-config-saribe",
   "version": "0.1.1",
   "description": "Lazy way to setup you eslint config",
   "main": "index.js",
@@ -31,6 +31,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com/saribe/saribe-eslint-config.git"
+    "url": "git@github.com/saribe/eslint-config-saribe.git"
   }
 }

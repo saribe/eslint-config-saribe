@@ -1,13 +1,13 @@
-# saribe-eslint-config
+# eslint-config-saribe
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/saribe/saribe-eslint-config.svg)](https://greenkeeper.io/) [![CircleCI](https://img.shields.io/circleci/project/github/saribe/saribe-eslint-config.svg)](https://circleci.com/gh/saribe/saribe-eslint-config) [![npm](https://img.shields.io/npm/v/saribe-eslint-config.svg)](https://www.npmjs.com/package/saribe-eslint-config)
+[![Greenkeeper badge](https://badges.greenkeeper.io/saribe/eslint-config-saribe.svg)](https://greenkeeper.io/) [![CircleCI](https://img.shields.io/circleci/project/github/saribe/eslint-config-saribe.svg)](https://circleci.com/gh/saribe/eslint-config-saribe) [![npm](https://img.shields.io/npm/v/eslint-config-saribe.svg)](https://www.npmjs.com/package/eslint-config-saribe)
 
 > Lazy way to setup you eslint config
 
 ## Usage
 
 ```bash
-npm i -D saribe-eslint-config
+npm i -D eslint-config-saribe
 ```
 
 Add it to your `.eslintrc.js` file:
