@@ -8,6 +8,13 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
+    // custom
+    'indent': [2, 4],
+    'max-statements-per-line': [2, { max: 1 } ],
+    'prefer-arrow-callback': 1,
+    'prefer-const': [ 2, { destructuring: 'all' }],
+    'semi': [2, 'always'],
+
     // eslint
     'comma-dangle': ['error', 'always-multiline'],
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
