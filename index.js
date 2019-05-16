@@ -14,6 +14,7 @@ module.exports = {
         'prefer-arrow-callback': 1,
         'prefer-const': [2, { destructuring: 'all' }],
         semi: [2, 'always'],
+        'space-before-function-paren': [ 2, { anonymous: 'never', named: 'never' } ],
 
         // eslint
         'comma-dangle': ['error', 'always-multiline'],
