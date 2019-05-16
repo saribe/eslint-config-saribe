@@ -8,7 +8,7 @@ module.exports = {
         sourceType: 'module',
     },
     rules: {
-    // custom
+        // custom
         indent: [2, 4],
         'max-statements-per-line': [2, { max: 1 }],
         'prefer-arrow-callback': 1,
